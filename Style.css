@@ -634,6 +634,9 @@ section#section {
       .contact-details{
         margin-top: 30px;
       }
+      .footer-bottom{
+        font-size: 14px;
+      }
 }
   }
   .footer-bottom{
